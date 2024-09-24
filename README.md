@@ -1,16 +1,34 @@
-## Hi there 👋
+# Olá, eu sou o Lucas Azevedo!
 
-<!--
-**lucasmtazevedo/lucasmtazevedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <div id="badges">
+  <a href = "https://www.linkedin.com/in/lucas-azevedo-20056918b">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
-Here are some ideas to get you started:
+Sou estudante de análise e desenvolvimento de sistemas
+- 👩‍💻 Futuro programador
+- 📕 Sempre aprendendo 
+- 🤓 Curioso e disposto a aprender
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+</div>
+
+
+<table style = "border: 0px solid;">
+<div align = "center">
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmtazevedo&show_icons=true&theme=radical&count_private=true"/>
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=lucasmtazevedo&show_icons=true&show_icons=true&theme=radical&count_private=true" />
+</td>
+</tr>
+</table>
